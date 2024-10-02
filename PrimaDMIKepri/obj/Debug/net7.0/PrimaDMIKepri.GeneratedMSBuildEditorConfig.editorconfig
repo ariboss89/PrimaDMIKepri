@@ -16,6 +16,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes = true
 build_property.MSBuildProjectDirectory = /Users/ariramadhan/Projects/PrimaDMIKepri/PrimaDMIKepri
 build_property._RazorSourceGeneratorDebug = 
 
+[/Users/ariramadhan/Projects/PrimaDMIKepri/PrimaDMIKepri/Views/Home/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9FcnJvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/ariramadhan/Projects/PrimaDMIKepri/PrimaDMIKepri/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

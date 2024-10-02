@@ -121,6 +121,46 @@
       "PackagePath": "staticwebassets/favicon.ico"
     },
     {
+      "Id": "/Users/ariramadhan/Projects/PrimaDMIKepri/PrimaDMIKepri/wwwroot/images/.DS_Store",
+      "PackagePath": "staticwebassets/images/.DS_Store"
+    },
+    {
+      "Id": "/Users/ariramadhan/Projects/PrimaDMIKepri/PrimaDMIKepri/wwwroot/images/PrimaDMI/mnt.jpg",
+      "PackagePath": "staticwebassets/images/PrimaDMI/mnt.jpg"
+    },
+    {
+      "Id": "/Users/ariramadhan/Projects/PrimaDMIKepri/PrimaDMIKepri/wwwroot/images/PrimaDMI/primalogo.png",
+      "PackagePath": "staticwebassets/images/PrimaDMI/primalogo.png"
+    },
+    {
+      "Id": "/Users/ariramadhan/Projects/PrimaDMIKepri/PrimaDMIKepri/wwwroot/images/PrimaDMI/rapat1.jpeg",
+      "PackagePath": "staticwebassets/images/PrimaDMI/rapat1.jpeg"
+    },
+    {
+      "Id": "/Users/ariramadhan/Projects/PrimaDMIKepri/PrimaDMIKepri/wwwroot/images/PrimaDMI/rapatPrima1.jpeg",
+      "PackagePath": "staticwebassets/images/PrimaDMI/rapatPrima1.jpeg"
+    },
+    {
+      "Id": "/Users/ariramadhan/Projects/PrimaDMIKepri/PrimaDMIKepri/wwwroot/images/PrimaDMI/rapatPrima2.jpeg",
+      "PackagePath": "staticwebassets/images/PrimaDMI/rapatPrima2.jpeg"
+    },
+    {
+      "Id": "/Users/ariramadhan/Projects/PrimaDMIKepri/PrimaDMIKepri/wwwroot/images/PrimaDMI/rapatPrima3.jpeg",
+      "PackagePath": "staticwebassets/images/PrimaDMI/rapatPrima3.jpeg"
+    },
+    {
+      "Id": "/Users/ariramadhan/Projects/PrimaDMIKepri/PrimaDMIKepri/wwwroot/images/PrimaDMI/rapatPrima4.jpeg",
+      "PackagePath": "staticwebassets/images/PrimaDMI/rapatPrima4.jpeg"
+    },
+    {
+      "Id": "/Users/ariramadhan/Projects/PrimaDMIKepri/PrimaDMIKepri/wwwroot/images/PrimaDMI/rapatPrima5.jpeg",
+      "PackagePath": "staticwebassets/images/PrimaDMI/rapatPrima5.jpeg"
+    },
+    {
+      "Id": "/Users/ariramadhan/Projects/PrimaDMIKepri/PrimaDMIKepri/wwwroot/images/PrimaDMI/rapatPrima6.jpeg",
+      "PackagePath": "staticwebassets/images/PrimaDMI/rapatPrima6.jpeg"
+    },
+    {
       "Id": "/Users/ariramadhan/Projects/PrimaDMIKepri/PrimaDMIKepri/wwwroot/images/banner-bg.png",
       "PackagePath": "staticwebassets/images/banner-bg.png"
     },
@@ -215,6 +255,10 @@
     {
       "Id": "/Users/ariramadhan/Projects/PrimaDMIKepri/PrimaDMIKepri/wwwroot/images/logo.png",
       "PackagePath": "staticwebassets/images/logo.png"
+    },
+    {
+      "Id": "/Users/ariramadhan/Projects/PrimaDMIKepri/PrimaDMIKepri/wwwroot/images/logoPrima.png",
+      "PackagePath": "staticwebassets/images/logoPrima.png"
     },
     {
       "Id": "/Users/ariramadhan/Projects/PrimaDMIKepri/PrimaDMIKepri/wwwroot/images/quote-icon.png",
