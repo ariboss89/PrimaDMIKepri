@@ -1,4 +1,40 @@
 ﻿<Properties StartupConfiguration="{924B3CB1-5A05-4165-8E6F-18FE11B91654}|https">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.PrimaDMIKepri FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PrimaDMIKepri/Views/Shared/_Layout.cshtml">
+    <Files>
+      <File FileName="PrimaDMIKepri/Views/Home/Index.cshtml" Line="147" Column="59" />
+      <File FileName="PrimaDMIKepri/wwwroot/css/style.css" Line="298" Column="18" />
+      <File FileName="PrimaDMIKepri/Views/Shared/_Layout.cshtml" Line="94" Column="57" />
+      <File FileName="PrimaDMIKepri/Program.cs" Line="28" Column="1" />
+      <File FileName="PrimaDMIKepri/Controllers/HomeController.cs" Line="19" Column="6" />
+      <File FileName="PrimaDMIKepri/Views/Home/Error.cshtml" Line="14" Column="7" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PrimaDMIKepri">
+            <Node name="PrimaDMIKepri" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True" />
+                <Node name="images" expanded="True" />
+              </Node>
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.PrimaDMIKepri PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
